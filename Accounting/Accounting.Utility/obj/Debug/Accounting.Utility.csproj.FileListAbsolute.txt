@@ -1,0 +1,6 @@
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

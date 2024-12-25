@@ -1,0 +1,16 @@
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\obj\Debug\Accounti.8B973F94.Up2Date
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Windows Forms Application\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

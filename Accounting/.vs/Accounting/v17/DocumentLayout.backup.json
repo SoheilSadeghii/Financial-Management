@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\accounting\\frmnewaccounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\accounting\\frmnewaccounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|c:\\users\\pcc\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\windows forms application\\accounting\\accounting\\accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A306478B-272C-41D0-854F-B545615DA88F}|Accounting.Business\\Accounting.Business.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A306478B-272C-41D0-854F-B545615DA88F}|Accounting.Business\\Accounting.Business.csproj|solutionrelative:accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|c:\\users\\pcc\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\windows forms application\\accounting\\accounting\\accounting.app\\accounting\\frmnewaccounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\accounting\\frmnewaccounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\accounting\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\customer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmNewAccounting.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\Accounting.App\\Accounting\\frmNewAccounting.cs",
               "RelativeDocumentMoniker": "Accounting.App\\Accounting\\frmNewAccounting.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmReport.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\Accounting.App\\Accounting\\frmReport.cs",
               "RelativeDocumentMoniker": "Accounting.App\\Accounting\\frmReport.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\Accounting.Business\\Account.cs",
               "RelativeDocumentMoniker": "Accounting.Business\\Account.cs",
@@ -128,11 +128,12 @@
               "RelativeToolTip": "Accounting.Business\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:42:14.45Z"
+              "WhenOpened": "2024-09-30T11:42:14.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmReport.cs",
               "DocumentMoniker": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\Accounting.App\\Accounting\\frmReport.cs",
               "RelativeDocumentMoniker": "Accounting.App\\Accounting\\frmReport.cs",
@@ -140,7 +141,8 @@
               "RelativeToolTip": "Accounting.App\\Accounting\\frmReport.cs",
               "ViewState": "AgIAAIQAAAAAAAAAAAAuwJQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T05:59:23.746Z"
+              "WhenOpened": "2024-09-13T05:59:23.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -187,8 +189,7 @@
               "RelativeToolTip": "Accounting.App\\Accounting\\frmNewAccounting.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T05:58:26.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T05:58:26.43Z"
             },
             {
               "$type": "Document",

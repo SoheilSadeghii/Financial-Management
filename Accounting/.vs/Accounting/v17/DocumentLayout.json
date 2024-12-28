@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|c:\\users\\pcc\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\windows forms application\\accounting\\accounting\\accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A69F3E96-4B94-42DA-82F3-59DBFAE82999}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A306478B-272C-41D0-854F-B545615DA88F}|Accounting.Business\\Accounting.Business.csproj|c:\\users\\pcc\\documents\\visual studio 2022\\templates\\projecttemplates\\c#\\windows forms application\\accounting\\accounting\\accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A306478B-272C-41D0-854F-B545615DA88F}|Accounting.Business\\Accounting.Business.csproj|C:\\Users\\PCC\\Documents\\Visual Studio 2022\\Templates\\ProjectTemplates\\C#\\Windows Forms Application\\Accounting\\Accounting\\accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A306478B-272C-41D0-854F-B545615DA88F}|Accounting.Business\\Accounting.Business.csproj|solutionrelative:accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Accounting.App\\Customer\\frmCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T10:58:55.551Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "Accounting.Business\\Account.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwBcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:42:14.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T11:42:14.45Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "Accounting.App\\Form1.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAxwFEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:57:27.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T13:57:27.947Z"
             },
             {
               "$type": "Document",
@@ -212,8 +209,7 @@
               "RelativeToolTip": "Accounting.App\\Customer\\frmCustomer.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T05:05:49.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T05:05:49.825Z"
             }
           ]
         }

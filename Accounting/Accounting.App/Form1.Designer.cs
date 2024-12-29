@@ -51,7 +51,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnYearRecord = new System.Windows.Forms.Button();
             this.toolStrip1.SuspendLayout();
             this.toolStrip2.SuspendLayout();
             this.statusStrip1.SuspendLayout();
@@ -267,21 +266,11 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "دریافتی ها:";
             // 
-            // btnYearRecord
-            // 
-            this.btnYearRecord.Location = new System.Drawing.Point(685, 500);
-            this.btnYearRecord.Name = "btnYearRecord";
-            this.btnYearRecord.Size = new System.Drawing.Size(85, 23);
-            this.btnYearRecord.TabIndex = 5;
-            this.btnYearRecord.Text = "Year Record";
-            this.btnYearRecord.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(782, 553);
-            this.Controls.Add(this.btnYearRecord);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.pictureBox1);
@@ -331,7 +320,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnRefresh;
-        private System.Windows.Forms.Button btnYearRecord;
     }
 }
 
